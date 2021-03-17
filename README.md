@@ -1,2 +1,2 @@
 # JS-Exercise-1
-Kelvin Weather
+<h1>Kelvin Weather</h1>
